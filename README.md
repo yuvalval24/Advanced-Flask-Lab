@@ -12,13 +12,13 @@ By the end of this lab, you will have your Instagram profile page look something
 
 
 
-> Before we start, make sure to fork the repo, clone the code to your machine.
+> Before we start, make sure to fork the repo, and clone the code to your machine.
 
 
 ## Instructions:
 
 In this lab, we'll be creating our own kind of Instagram profile page!  
-We have provided your Repl.it with some HTML, CSS, and JS already, so not to worry about design; We'll be focusing on our programming skills!  
+We have provided you with some HTML, CSS, and JS already, so not to worry about design; We'll be focusing on our programming skills!  
 
 1. Run `main.py`; Did everything load up correctly?
     - Fix the incorrectly loaded content
@@ -44,7 +44,7 @@ Now, after you're done with setting up the profile info, let's display our posts
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+If not, make sure you commit and push your code.
 
 
 <img src="https://miro.medium.com/max/1200/1*SzN6u2U98S4RyhWo_WyaHQ.png" width="400">
@@ -60,6 +60,6 @@ If not, make sure your code is saved in **Repl.it**!
     - *Hint: maybe something like, say, every 3 posts on a row? or something like that.*
 
 ##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
+###### make sure you commit and push your code.
 
 
