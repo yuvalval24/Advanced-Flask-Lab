@@ -12,7 +12,7 @@ By the end of this lab, you will have your Instagram profile page look something
 
 
 
-> Before we start, make sure to go to [This Repl.it](https://repl.it/@Loai17/Advanced-Flask-Lab), fork it/copy the code to your machine in order to set up our environment for this lab.
+> Before we start, make sure to fork the repo, clone the code to your machine.
 
 
 ## Instructions:
