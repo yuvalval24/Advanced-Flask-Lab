@@ -13,7 +13,11 @@
 
         <center>
           <h1>About Me</h1>
-          
+
+          {% for post in posts.keys() %}
+          <image src={{post}} width="200px">
+          <p>{{posts[post]}}</p>
+          {% endfor %}
 
         </center>
 
